@@ -1,5 +1,22 @@
+How to add Python to Windows PATH
+https://datatofish.com/add-python-to-windows-path/
 
 
 Fazt
 Curso Python para Principiantes
 https://www.youtube.com/watch?v=chPhlsHoEPo&t=604s
+
+
+Fazt
+Tu Primer Página Web con Python3
+https://www.youtube.com/watch?v=fxavwHPJ36o&list=RDCMUCX9NJ471o7Wie1DQe94RVIg&index=2
+
+
+UskoKruM2010
+Curso Python 3 🐍 - 1. Introducción | UskoKruM2010
+https://www.youtube.com/watch?v=YRmH2MJMBI4&list=PL_wRgp7nihybbJ2vZaVGI5TDdPaK_dFuC
+
+
+UskoKruM2010
+Crea tu Primera Página Web con Python 3 | Sitio Web con HTML, CSS y JavaScript ✅
+https://www.youtube.com/watch?v=dpbu0zTitO8
